@@ -1,5 +1,7 @@
 <?php
 $page = 1;
+
+require_once "init.php";
  ?>
 <!doctype html>
 <html lang="en">
